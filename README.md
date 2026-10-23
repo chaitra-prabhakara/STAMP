@@ -5,8 +5,8 @@ STAMP is a collection of MATLAB scripts for spatial analysis of in situ hybridiz
 
 ## Versions
 
-- **[STAMP v1.0](STAMP_v1.0/README.md)** — Pipeline for mapping PITX2 transcript density in developing chick foregut. Includes instructions and manuscript details for version 1.0.
-- **[STAMP v2.0](STAMP_v2.0/README.md)** — Pipeline for mapping mean RNA FISH intensity of various HCR probes in developing chick retina. Includes instructions, example data, example outputs and manuscript details for version 2.0.
+- **[STAMP v1.0](v1.0/README.md)** — Pipeline for mapping PITX2 transcript density in developing chick foregut. Includes instructions and manuscript details for version 1.0.
+- **[STAMP v2.0](v2.0/README.md)** — Pipeline for mapping mean RNA FISH intensity of various HCR probes in developing chick retina. Includes instructions, example data, example outputs and manuscript details for version 2.0.
 
 ## Getting started
 
