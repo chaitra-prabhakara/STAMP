@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use STAMP, please cite the software and the manuscript associated with the version you used. For version-specific manuscript citations, see that version's README."
+type: software
+title: "STAMP: Spatial Transcript Abundance Mapping Pipeline"
+authors:
+  - family-names: Prabhakara
+    given-names: Chaitra
+license: MIT
+repository-code: "https://github.com/chaitra-prabhakara/STAMP"
