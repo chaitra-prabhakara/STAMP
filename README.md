@@ -14,13 +14,25 @@ Open the README in the folder for the version you want to use. Each version’s 
 
 ## Repository structure
 
+```text
 STAMP/
 ├── README.md
-├── STAMP_v1.0/
-│   ├── README.md
-│   └── code/
-│       └── STAMP_v1_0.m
-└── STAMP_v2.0/
+├── CITATION.cff
+├── LICENSE.md
+├── .gitattributes
+├── .gitignore
+├── v1.0/
+│   └── [version 1.0 files]
+└── v2.0/
     ├── README.md
-    ├── code/
-        └── STAMP_v2_0.m
+    ├── STAMP_v2_0.m
+    ├── Example/
+    │   ├── [example image and mask]
+    │   └── Analyzed/
+    │       └── [example outputs]
+    └── third_party/
+        ├── README.md
+        ├── cbrewer2/
+        ├── perceptually_uniform_colormaps/
+        └── [COLORSPACE files]
+```
